@@ -19,4 +19,4 @@ artifacts:
   files:
     - index.js
     - package.json
-    
+    - node_modules/**/*
